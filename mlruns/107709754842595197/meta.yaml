@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/107709754842595197
+creation_time: 1782293446424
+experiment_id: '107709754842595197'
+last_update_time: 1782293446424
+lifecycle_stage: active
+name: fraud-detection-v1
