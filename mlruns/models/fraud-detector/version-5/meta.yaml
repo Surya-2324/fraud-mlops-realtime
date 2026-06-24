@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1782303313114
+current_stage: None
+description: ''
+last_updated_timestamp: 1782303313114
+name: fraud-detector
+run_id: 869ccaea348a4ca4a5e9fba87f5c6a49
+run_link: ''
+source: mlflow-artifacts:/107709754842595197/869ccaea348a4ca4a5e9fba87f5c6a49/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/107709754842595197/869ccaea348a4ca4a5e9fba87f5c6a49/artifacts/model
+user_id: null
+version: 5
